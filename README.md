@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="TechNews365 OS – KDE Gaming Edition 2026" width="100%">
+</p>
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Downloads](https://img.shields.io/sourceforge/dt/technews365-kde-gaming)
 ![License](https://img.shields.io/badge/license-MIT-blue)
