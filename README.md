@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Downloads](https://img.shields.io/sourceforge/dt/technews365-kde-gaming)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![KDE](https://img.shields.io/badge/KDE-6.6-blue)
+![Linux](https://img.shields.io/badge/Linux-Mint%2022.3-success)
+
 🎮 TechNews365 OS – KDE Gaming Edition 2026
 
 Basée sur Linux Mint 22.3 “Zena” + KDE Plasma 6.6
