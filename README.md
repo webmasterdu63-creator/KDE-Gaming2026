@@ -132,6 +132,75 @@ __GL_MaxFramesAllowed=1
     AppImages TN365
 
     Outils système TechNews365
+    🎮 Stack Gaming Windows
+
+    WineHQ (stable)
+
+    Wine64
+
+    Wine32
+
+    Wine‑Staging
+
+    DXVK 2.x
+
+    VKD3D‑Proton
+
+    Proton‑GE
+
+    Winetricks
+
+🛠️ Launchers & outils
+
+    Heroic Games Launcher
+
+    Bottles
+
+    ProtonUp‑Qt
+
+    Sunshine
+
+🖥️ Environnement KDE complet
+
+    KDE Plasma 5.27 LTS
+
+    KDE Frameworks
+
+    KDE Gear
+
+    Discover
+
+    Konsole
+
+    Dolphin
+
+🎨 Branding TechNews365
+
+    GRUB TechNews365 (fond noir + bleu néon)
+
+    Plymouth TechNews365
+
+    SDDM TechNews365
+
+    Wallpaper KDE TechNews365
+
+    Lockscreen KDE TechNews365
+
+📦 Paquets système importants
+
+    Support i386 complet
+
+    Mesa Vulkan
+
+    Feral Gamemode
+
+    OBS Qt (si installé)
+
+    Flatpak
+
+    PipeWire
+
+
 
 📥 Téléchargement
 
